@@ -9,6 +9,7 @@ You need Katalon Studio and appium to run this project.
  
  # How to Run
  - make sure you have tinder app in your device
+ - Login to your tinder account
  - Plug your device in debugging mode
  - Open this project using Katalon Studio and let katalon do all the dirty work
  - That's all, hope you'll find your true love sooner than later
